@@ -1,8 +1,5 @@
 # TRUST-AV / TRUST-AV-E
 
-
-Official implementation of the paper:
-
 ## Overview
 
 Audio-visual emotion recognition models usually assume that speech and faces are always clean and available. In real interactions faces are occluded, turned away or off-screen, and speech is noisy or missing. Existing trusted-fusion methods use modality uncertainty only to weight the *final decisions*, so unreliable inputs still corrupt cross-modal feature interaction.
