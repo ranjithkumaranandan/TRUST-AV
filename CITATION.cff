@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "TRUST-AV / TRUST-AV-E: Trustworthy audio-visual emotion recognition via uncertainty-steered attention and evidential expert fusion"
+authors:
+  - family-names: "Anandan"
+    given-names: "Ranjith Kumar"
+    affiliation: "Department of Computer Science and Engineering, SRM Institute of Science and Technology, Ramapuram, Chennai, India"
+repository-code: "https://github.com/ranjithkumaranandan/TRUST-AV"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-30"
+keywords:
+  - audio-visual emotion recognition
+  - multimodal fusion
+  - evidential deep learning
+  - Dempster-Shafer theory
+  - missing modality robustness
