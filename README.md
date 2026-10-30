@@ -25,9 +25,6 @@ Audio and video only (no text). MELD: official split, 3 seeds. CREMA-D and RAVDE
 | **TRUST-AV** (ours, 3.4 M params) | **54.90** | **51.77** | 90.16 | 93.68 | 79.49 | 82.74 |
 | **TRUST-AV-E** (ours, 5.8 M params) | 54.69 | 50.72 | **90.83** | **94.57** | **80.08** | **83.98** |
 
-Full results for all 15 models, ten test-time degradations, significance tests (McNemar + Holm, Friedman / Nemenyi), ablations, calibration and efficiency are in [`paper/tables/All_Tables.xlsx`](paper/tables/All_Tables.xlsx).
-
-![Accuracy vs robustness](paper/figures/F08_accuracy_vs_robustness.png)
 
 ## Repository structure
 
@@ -60,12 +57,6 @@ python -m venv venv
 pip install torch==2.11.0 torchvision==0.26.0 torchaudio==2.11.0 --index-url https://download.pytorch.org/whl/cu128
 pip install -r requirements.txt
 ```
-
-[FFmpeg](https://ffmpeg.org/) must be available on the `PATH`.
-
-## Data
-
-The datasets are **not** redistributed here. Download them from their official sources and place them under `datasets/`, as described in [`docs/DATASETS.md`](docs/DATASETS.md).
 
 ## Quick start
 
