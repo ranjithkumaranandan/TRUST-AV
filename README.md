@@ -87,7 +87,7 @@ If you use this code, please cite:
 
 ```bibtex
 @article{anandan2026trustav,
-  title   = {Trustworthy Audio-Visual Emotion Recognition via Uncertainty-Steered Attention and Evidential Expert Fusion under Missing and Corrupted Modalities},
+  title   = {TRUST-AV / TRUST-AV-E},
   author  = {Anandan, Ranjith Kumar},
   journal = {Under review},
   year    = {2026}
