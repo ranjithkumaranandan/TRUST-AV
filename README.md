@@ -47,11 +47,8 @@ code/
   explain.py                    Grad-CAM, uncertainty and attention analyses (needs GPU)
   make_tables.py                rebuilds every table in paper/tables
   make_figures.py               rebuilds every figure in paper/figures
-scripts/                        complete pipeline as one script (Windows / Linux)
 docs/DATASETS.md                where to download the datasets and how to lay them out
 docs/REPRODUCE.md               step-by-step reproduction with run times
-results/                        JSON record of every run reported in the paper
-paper/figures, paper/tables     all figures (PNG, PDF) and tables (CSV, LaTeX, XLSX)
 ```
 
 ## Installation
